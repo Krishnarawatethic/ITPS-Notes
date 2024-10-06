@@ -423,7 +423,7 @@ C provides several string handling functions, such as:
    
        return 0;
    }
-   ```
+   
 
 ## Summary:
 - Functions help organize code into modular blocks.
